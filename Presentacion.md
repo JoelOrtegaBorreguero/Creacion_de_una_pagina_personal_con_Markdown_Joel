@@ -1,4 +1,4 @@
-# ¿Quién soy?
+# \_¿Quién soy?\_
 ¡hola! Soy Joel Ortega Borreguero y soy un alumno de SMX de segundo año, vivo por [santa coloma de gramenet](https://www.google.com/maps/place/Carrer+Llu%C3%ADs+Nicolau,+08924+Santa+Coloma+de+Gramenet,+Barcelona/@41.4578239,2.1983071,18z/data=!3m1!4b1!4m6!3m5!1s0x12a4bcf688192c21:0x90829cf1f105f2a2!8m2!3d41.4578239!4d2.1983071!16s%2Fg%2F11xjs7_26?entry=ttu). Antes de entrar al Puig estudiandaba en el [colegio singuerlin](https://www.singuerlin.cat/), y tras terminar cuarto de ESO decidido a hacer lo que me gusta me uní a este ciclo. Ademas de clases tengo muchas mas aficiones, pero entre ellas hay 3 que destacan:
 - Hacer Taekwondo
 - Leer
