@@ -14,7 +14,7 @@ El taekwondo es un arte marcial tradicional coreana y que enseña algo más que 
 ### Hobby en clase   
 En clase estoy aprendiendo muchas cosas, siempre me gusta enseñar algunos comandos que son fáciles de usar para todos, por ejemplo si quisiéramos crear una carpeta con un fichero tipo "txt" solamente tendríamos que colocar estos comandos:
 ```
-$cd
+cd
 mkdir Carpeton
 cd ./Carpeton
 touch documento1.txt
