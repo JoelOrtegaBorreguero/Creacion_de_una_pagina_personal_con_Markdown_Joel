@@ -3,7 +3,7 @@
 - Hacer Taekwondo
 - Leer
 - Jugar videojuegos	
-En clase estoy aprendiendo muchas cosas, siempre me gusta enseñar algunos comandos que son faciles de usar para todos, por ejemplo si quisieramos enseñar a alguien como colocar un texto **en negrita** solo tendriamos que usar las comillas, os muestro un ejemplo:
+En clase estoy aprendiendo muchas cosas, siempre me gusta enseñar algunos comandos que son faciles de usar para todos, por ejemplo:
 ```
-**Este texto tiene el bold aplicado**```
-a
+**Este texto tiene el bold aplicado**
+```
