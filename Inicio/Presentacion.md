@@ -11,6 +11,7 @@ Además de clases tengo muchas más aficiones, pero entre ellas hay 3 que destac
 La verdad es que tengo bastantes hobbies a parte de los hobbies informaticos, pero hay uno que me gusta por encima del resto, y es que hago taekwondo
 ```
 ![:](https://img.freepik.com/vector-premium/dos-nidos-ninos-peleando-vector-ilustracion-competencia-taekwondo_105094-63.jpg?w=2000)
+
 El **taekwondo** es un arte marcial tradicional coreana y que enseña algo más que habilidades físicas de lucha. **Taekwondo** es una palabra coreana compuesta de tres partes: 'Tae' significa pie o pisar, 'Kwon' significa puño o luchar y 'Do' se refiere al camino o disciplina. Una buena manera de entender el **taekwondo** es con el lema de mi gimnasio:
 
 *En el camino del Taekwondo, la disciplina moldea nuestro carácter, la perseverancia nos lleva a la cima y el respeto guía cada paso. Somos guardianes de la tradición, forjando un futuro lleno de fuerza y equilibrio.*
