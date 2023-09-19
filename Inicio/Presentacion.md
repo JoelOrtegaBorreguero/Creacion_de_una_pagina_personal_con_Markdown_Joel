@@ -13,9 +13,11 @@ La verdad es que tengo bastantes hobbies aparte de los hobbies informáticos, pe
 ![:](https://img.freepik.com/vector-premium/dos-nidos-ninos-peleando-vector-ilustracion-competencia-taekwondo_105094-63.jpg?w=2000)
 
 El **taekwondo** es un arte marcial tradicional coreana y que enseña algo más que habilidades físicas de lucha. **Taekwondo** es una palabra coreana compuesta de tres partes: 
+
 - 'Tae' significa pie o pisar 
 - 'Kwon' significa puño o luchar  
 - 'Do' se refiere al camino o disciplina. 
+
 Una buena manera de entender el **taekwondo** es con el lema de mi gimnasio:
 
 *En el camino del Taekwondo, la disciplina moldea nuestro carácter, la perseverancia nos lleva a la cima y el respeto guía cada paso. Somos guardianes de la tradición, forjando un futuro lleno de fuerza y equilibrio.*
