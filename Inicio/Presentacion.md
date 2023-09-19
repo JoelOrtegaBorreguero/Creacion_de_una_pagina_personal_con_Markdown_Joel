@@ -11,15 +11,15 @@ La verdad tengo bastantes hobbies, pero hay uno que destaca sobre el resto, y es
 El taekwondo es un arte marcial tradicional coreana y que enseña algo más que habilidades físicas de lucha. Taekwondo es una palabra coreana compuesta de tres partes: 'Tae' significa pie o pisar, 'Kwon' significa puño o luchar y 'Do' se refiere al camino o disciplina. Una buena manera de entender el taekwondo es con el lema de mi gimnasio:
 
 *En el camino del Taekwondo, la disciplina moldea nuestro carácter, la perseverancia nos lleva a la cima y el respeto guía cada paso. Somos guardianes de la tradición, forjando un futuro lleno de fuerza y equilibrio.*
-### Hobby en clase   
-En clase estoy aprendiendo muchas cosas, siempre me gusta enseñar algunos comandos que son fáciles de usar para todos, por ejemplo si quisiéramos crear una carpeta con un fichero tipo "txt" solamente tendríamos que colocar estos comandos:
+### Hobby en clase
+En clase estoy aprendiendo muchas cosas, siempre me gusta enseñar algunos comandos que son fáciles de usar para todos, por ejemplo si quisiéramos crear una carpeta con un fichero tipo "txt" en linux, solamente tendríamos que colocar estos comandos:
 ```
 cd
 mkdir Carpeton
 cd ./Carpeton
 touch documento1.txt
 ```
-Sorprendente ¿verdad?
-
-- [x] Entretenimiento
+> Existen muchos comandos útiles en Linux, desde mi punto de vista lo divertido es utilizarlos y descubrirlos uno mismo, os recomiendo explorar este mundillo.
+### Intención de mi Presentacion
+- [x] Entretenido
 - [ ] Creacion simple
