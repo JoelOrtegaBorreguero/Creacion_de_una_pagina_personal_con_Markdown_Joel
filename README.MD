@@ -1,4 +1,4 @@
-# Act creación de una página personal con Markdown
-Saludos, si has venido aquí es para mirar mi actividad, bien, no lo haré difícil y te dejaré el enlace a esta:
-
+# Nucleo de Actividades de Joel 
+Saludos, Parece que has encontrado el nexo de mi GitHub, bien, pues aquí encontraras toda la información relacionada con todo el desenlace del curso, ya sean apuntes o actividades, pero qué mejor manera que dejar un enlace a estos: 
+***
 [Mi creación de una página personal con Markdown](https://github.com/JoelOrtegaBorreguero/Creacion_de_una_pagina_personal_con_Markdown_Joel/blob/main/Inicio/Presentacion.md)
